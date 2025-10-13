@@ -5,7 +5,7 @@ export default function Welcome() {
     return(
         <main className="welcome-main">
             <div className="hero-section">
-                <h1 className="hero-title">Welcome to DevHub</h1>
+                <h1 className="hero-title">Welcome to DevHub Nills</h1>
                 <p className="hero-subtitle">Your gateway to seamless development collaboration</p>
                 
                 <div className="login-section">
