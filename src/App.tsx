@@ -1,4 +1,3 @@
-// App.jsx
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Login from './components/Login/Login'
 import Welcome from './components/Welcome/Welcome'
